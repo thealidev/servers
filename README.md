@@ -33,6 +33,7 @@ These servers aim to demonstrate MCP features and the official SDKs.
 - **[Memory](src/memory)** - Knowledge graph-based persistent memory system.
 - **[Sequential Thinking](src/sequentialthinking)** - Dynamic and reflective problem-solving through thought sequences.
 - **[Time](src/time)** - Time and timezone conversion capabilities.
+- **[DMCPS (Sandbox)](src/dmcps)** - A highly secure, isolated MCP server environment giving AI agents access to a sandboxed filesystem and shell execution (Docker, Render).
 
 ### Archived
 

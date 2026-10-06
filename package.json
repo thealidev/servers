@@ -22,7 +22,8 @@
     "@modelcontextprotocol/server-everything": "*",
     "@modelcontextprotocol/server-memory": "*",
     "@modelcontextprotocol/server-filesystem": "*",
-    "@modelcontextprotocol/server-sequential-thinking": "*"
+    "@modelcontextprotocol/server-sequential-thinking": "*",
+    "@modelcontextprotocol/server-dmcps": "*"
   },
   "overrides": {
     "qs": ">=6.15.2",
